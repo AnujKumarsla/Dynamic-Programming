@@ -1,0 +1,59 @@
+https://www.quora.com/Which-mathematics-topics-should-I-learn-to-improve-my-algorithms-skills-and-get-started-with-competitive-programming
+https://www.quora.com/What-are-some-must-know-topics-in-discrete-math-and-probability-for-competitive-programming/answer/Raziman-T-V
+
+
+Probablity and Statistics : mean , meadian , Standard deviation , variance , Bayes theorm , sum rule , product rule etc
+Permutations and Combinations , Inclusion - exclusion
+Geometrical Algorithms
+Number Theory
+Primality test and Totient functions etc
+
+Number Theory - Sieve, primality test, fibonacci etc
+Linear Algebra - Basic Matrices, multiplication, etc
+Basic Algebra - Solving linear equations, finding unknown, etc
+Statistics - Mean, Median, Variance, expected value
+Basic Arithmetic concepts like mixtures, progressions, ratios, rational numbers, hcf / lcm etc.
+Probability - Bayes' theorem, Probability distribution, etc
+Co-ordinate Geometry - 2D, 3D space, distance between points, line equation, etc
+Discrete Mathematics and Combinatorics - Arrangements, sorting, permutations
+Principles like Pigeon Hole, Inclusion-Exclusion, Induction etc
+That is just for starting. Once you are comfortable with competitive programming you can learn following advance topics :
+
+Graph Theory - Path, Node, Colouring, Matching, Components, Flow, etc
+Calculus - Variable Minimisation, Maximisation
+Error Analysis and Estimation. This is important for only few tricky probs
+Game Theory - Nim Game, Grundy Number, etc.
+Fast Fourier Tranformation
+Modular Arithmetic
+
+========================
+Number theory is one of the most important part of competitive programming. Let me tell you some very popular number theory topics:
+
+Prime Number
+Prime Factorization
+Sieve of Eratosthenes
+LCM and GCD
+Euclidean Algorithm
+Modular Arithmetic
+Modular Multiplicative Inverse
+Eular Phi Function
+Inclusion Exclusion Principle
+Catalan Numbers
+Fermat’s Last Theorem
+Recurrence problem solving using Matrix Expo
+Chinese remainder theorem
+Extended Euclidean Algorithm
+Miller- Rabin Primality Test
+Lucas Theorem
+Enumerative Combinatorics: nCr and nPr
+Discrete logarithm
+Primitive Root Modulo N
+There are also a lot of topics available for number theory in fact same questions have been asked on quora before.
+
+Basic Number Theory Every Programmer Should Know...
+
+Basic Number Theory Every Programmer Should Know...
+
+An awesome list for competitive programming! - Codeforces
+
+https://artofproblemsolving.com/community/c90633h1291397

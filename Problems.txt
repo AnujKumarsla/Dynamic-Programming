@@ -1,0 +1,40 @@
+KnapSack:-
+1. 0/1 KnapSack (Recursive, TopDown, memoization)
+2. subset sum Problem
+3. Equal Sum Partition Problem
+4. Count of Subsets Sum with a Given Sum 
+5. Minimum Subset Sum Difference
+6. Count the number of subset with a given difference
+7. Target sum
+
+Unbounded KnapSack :-
+1. Unbounded KnapSack
+2. RodCutting 
+3. coinchage (total number of ways to collect a certain amount)
+4. CoinChange (minimum number of coins for amount)
+
+LCS:-
+1. Longest Common Subsquences (recursive,topdown,memoization)
+2. Longest common substring (topdown)
+3. print longest common Subsquences (topDown)
+4. shortest common supersquences (LCS dependent)
+5. print shortest common supersquences (LCS topDown)
+6. Minimum number of insertion and deletion (a->b,LCS)
+7. longest palindromic Subsquences (a->Palindrom,LCS)
+8. Minimum number of deletion in a string to make it a palindrome
+9. Minimum number of insertion in a string to make it a palindrome
+10. Longest repeating subsequence 
+11. Sequence Pattern Matching (is a present in b)
+
+MCM:-
+1. Matrix Chain Multiplication
+2. Minimum Partition Palindrom
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10.
+11.
